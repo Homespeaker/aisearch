@@ -1,0 +1,171 @@
+#####	Starting new Antonina runs!
+#####	STEPS_LIMIT=256	N_TESTS=10
+#####	Starting Test 00...
+#	New test... go R  done in 1 steps!
+#	New test... go R  done in 1 steps!
+#	New test... go L go L go L go L go R go R go R go R go R  done in 9 steps!
+#	New test... go R go R go L go L go L  done in 5 steps!
+#	New test... go D go D go D go U go U go U go U  done in 7 steps!
+#	New test... go D go D go D go U go U go U go U  done in 7 steps!
+#	New test... go D go U go U  done in 3 steps!
+#	New test... go U go D go D  done in 3 steps!
+#	New test... go D  done in 1 steps!
+#	New test... go L go R go R  done in 3 steps!
+#####	Test 00: winrate=100% av.steps=4 score=98
+#####	Starting Test 01...
+#	New test... go L go L go D go D go D go U go U go U go U go R go D go R go R  done in 13 steps!
+#	New test... go L go D go R go U go R  done in 5 steps!
+#	New test... go R go U go R go D go L  done in 5 steps!
+#	New test... go R go R go D go U go U go R go D go L go L  done in 9 steps!
+#	New test... go L go U go R go D go R  done in 5 steps!
+#	New test... go R go R go U go R go D go L go L  done in 7 steps!
+#	New test... go L go U go U go U go D go D go D go D go R go U go R  done in 11 steps!
+#	New test... go L go L go L go L go U go D go D go R go U go R go R go R go R  done in 13 steps!
+#	New test... go L go U go U go D go D go D go R go U go R  done in 9 steps!
+#	New test... go R go U go U go U go D go D go D go D go R go U go L  done in 11 steps!
+#####	Test 01: winrate=100% av.steps=8 score=96
+#####	Starting Test 02...
+#	New test... go D  done in 1 steps!
+#	New test... go R go L go L  done in 3 steps!
+#	New test... go D go D go U go U go L go D go D go R go U  done in 9 steps!
+#	New test... go R go R go R go R go L go L go L go L go U go R go R go D go L  done in 13 steps!
+#	New test... go R go R go R go R go R go R go L go L go L go L go L go L go U go R go R go D go L  done in 17 steps!
+#	New test... go R go R go R go L go L go L go L  done in 7 steps!
+#	New test... go L go L go L go L go L go L go R go R go R go R go R go R go U go L go L go D go R  done in 17 steps!
+#	New test... go R go R go R go L go L go L go U go R go R go D go L  done in 11 steps!
+#	New test... go D go D go U go U go L go D go D go R go U  done in 9 steps!
+#	New test... go D go D go D go D go D go U go U go U go U go U go L go D go D go R go U  done in 15 steps!
+#####	Test 02: winrate=100% av.steps=10 score=96
+#####	Starting Test 03...
+#	New test... go L go L go L go L go L go L go L go U go U go U go U go U go U go D go D go D go D go D go D go R go U go R go R go R go R go R go R go U go L go D go L go D go R  done in 33 steps!
+#	New test... go R go R go R go R go R go R go L go L go L go L go L go L go D go R go R go U go L  done in 17 steps!
+#	New test... go R go R go R go R go R go R go L go L go L go L go L go L go U go R go R go D go L  done in 17 steps!
+#	New test... go R go R go R go R go R go R go R go D go D go D go D go D go D go U go U go U go U go U go U go L go D go L go L go L go L go L go L go D go R go U go R go U go L  done in 33 steps!
+#	New test... go U go U go U go U go U go U go D go D go D go D go D go D go R go U go U go L go D  done in 17 steps!
+#	New test... go R go R go R go R go R go R go L go L go L go L go L go L go D go R go R go U go L  done in 17 steps!
+#	New test... go R go R go R go R go R go R go L go L go L go L go L go L go U go R go R go D go L  done in 17 steps!
+#	New test... go L go L go L go L go L go L go R go R go R go R go R go R go D go L go L go U go R  done in 17 steps!
+#	New test... go U go U go U go U go U go U go D go D go D go D go D go D go L go U go U go R go D  done in 17 steps!
+#	New test... go U go U go U go U go U go U go D go D go D go D go D go D go L go U go U go R go D  done in 17 steps!
+#####	Test 03: winrate=100% av.steps=20 score=92
+#####	Starting Test 04...
+#	New test... go U go U go U go R go U go L go D go D go D go D go D  done in 11 steps!
+#	New test... go R go U go L go D go L go U go U go R go D  done in 9 steps!
+#	New test... go R go D go R go U go L go L go L  done in 7 steps!
+#	New test... go R go R go D go R go U go L go L go L go L  done in 9 steps!
+#	New test... go R go U go L go D go D  done in 5 steps!
+#	New test... go R go D go R go D go R go U go L go U go L go L go L  done in 11 steps!
+#	New test... go U go U go U go R go U go L go D go D go D go D go D  done in 11 steps!
+#	New test... go R go D go L go U go L go D go D go R go U  done in 9 steps!
+#	New test... go D go D go D go R go D go L go U go U go U go U go L go D go D go R go U  done in 15 steps!
+#	New test... go U go R go U go R go U go L go D go L go D go D go D  done in 11 steps!
+#####	Test 04: winrate=100% av.steps=9 score=96
+#####	Starting Test 05...
+#	New test... go R go R go R go R go U go U go D go D go D go R go U go L go L go L go L  done in 15 steps!
+#	New test... go L go L go L go D go U go U go R go D go R go R go R  done in 11 steps!
+#	New test... go R go R go D go D go D go D go U go U go U go U go U go R go D go L go L  done in 15 steps!
+#	New test... go L go L go L go L go D go L go D go D go R go D go R go R go R go U go L go U go U go U go U go R go D go R go R  done in 23 steps!
+#	New test... go R go R go R go R go R go U go U go U go U go D go D go D go D go L go U go L go L go L go L go L go U go R go D  done in 23 steps!
+#	New test... go L go L go U go U go L go D go R go U go R go R go R go D go L go D go L go U go U go R go D  done in 19 steps!
+#	New test... go R go R go R go R go D go U go U go R go D go L go L go L go L  done in 13 steps!
+#	New test... go L go L go L go L go L go U go U go U go U go U go D go D go D go D go D go D go R go U go R go R go R go R go R  done in 23 steps!
+#	New test... go L go L go L go L go U go R go R go R go U go L go D go R go D go R go R  done in 15 steps!
+#	New test... go D go L go D go D go R go D go R go D go L go U go U go U go U  done in 13 steps!
+#####	Test 05: winrate=100% av.steps=17 score=93
+#####	Starting Test 06...
+#	New test... go R go R go R go R go D go R go U go L go L go L go L  done in 11 steps!
+#	New test... go R go R go R go R go D go D go U go U go U go R go D go L go L go L go L  done in 15 steps!
+#	New test... go R go D go D go R go U go U go R go D go L go L go D go L go U  done in 13 steps!
+#	New test... go L go L go L go L go L go U go U go U go U go U go D go D go D go D go D go D go R go U go R go R go R go R go U go L go L go D go R  done in 27 steps!
+#	New test... go R go D go U go R go D go L go D go L go U  done in 9 steps!
+#	New test... go R go R go R go U go U go U go D go D go D go D go R go U go L go L go L  done in 15 steps!
+#	New test... go R go R go R go R go R go R go D go D go U go U go U go R go D go L go L go L go L go L go L  done in 19 steps!
+#	New test... go L go L go D go D go R go D go L go U go U go U go U go R go D go R go U go L go L go D go R  done in 19 steps!
+#	New test... go L go U go D go R go U go R go U go L go D  done in 9 steps!
+#	New test... go R go R go R go U go D go D go R go U go L go L go L  done in 11 steps!
+#####	Test 06: winrate=100% av.steps=14 score=94
+#####	Starting Test 07...
+#	New test... go R go R go R go R go R go U go U go D go D go D go R go U go L go L go L go L go L  done in 17 steps!
+#	New test... go R go R go R go R go U go R go D go L go L go L go L  done in 11 steps!
+#	New test... go L go L go L go L go L go U go U go D go D go D go R go U go R go R go R go R go U go L go L go D go R  done in 21 steps!
+#	New test... go R go R go R go R go U go U go L go L go L go L go L go D go R go D go D  done in 15 steps!
+#	New test... go L go L go U go R go D go R go R  done in 7 steps!
+#	New test... go L go L go L go U go R go D go R go R go R  done in 9 steps!
+#	New test... go L go L go L go U go R go D go R go R go U go L go L go D go R  done in 13 steps!
+#	New test... go R go R go R go R go R go D go D go D go D go D go U go U go U go U go U go U go R go D go L go L go L go L go L  done in 23 steps!
+#	New test... go L go L go L go L go U go D go R go U go R go R go R go R go U go L go D  done in 15 steps!
+#	New test... go R go U go D go D go R go U go L  done in 7 steps!
+#####	Test 07: winrate=100% av.steps=13 score=94
+#####	Starting Test 08...
+#	New test... go L go L go L go D go L go L go R go R go R go R go R go R go D go L go U  done in 15 steps!
+#	New test... go R go R go L go U go R go R go D go L go U go U go L go D go R go U go R go R go L go L go L go D go R go D go D go L go U go L go L  done in 27 steps!
+#	New test... go R go D go U go U go R go D go L  done in 7 steps!
+#	New test... go L go U go U go U go U go U go D go D go D go D go D go R go U go R go U go L go D  done in 17 steps!
+#	New test... go R go R go D go R go R go D go D go R go D go L go L go L go L go U go L go U go U go U go U  done in 19 steps!
+#	New test... go R go R go D go R go R go R go R go L go L go L go L go L go L go U go R go U go R go D go L  done in 19 steps!
+#	New test... go L go L go L go L go L go U go U go L go U go L go D go R go R go U go U go L go D go R go R go U go L go D go R go D go L go D go D go D go R go U go R go R go R go R go U go L go L go D go R  done in 39 steps!
+#	New test... go L go D go L go U go R go D go R go R go D go L go U  done in 11 steps!
+#	New test... go R go R go R go D go U go U go R go D go L go L go L  done in 11 steps!
+#	New test... go L go L go L go U go L go U go L go L go D go U go R go U go L go D go D go R go R go U go L go D go L go U go R go D go U go L go D go R go D go R go R go R go R go R go R  done in 35 steps!
+#####	Test 08: winrate=100% av.steps=20 score=92
+#####	Starting Test 09...
+#	New test... go R go U go R go U go D go D go L go U go L go L go D go R go D  done in 13 steps!
+#	New test... go R go D go D go L go D go D go R go R go R go D go L go L go D go R go U go R go U go L go L go D go R go U go U go L go L go U go U go U go U  done in 29 steps!
+#	New test... go L go L go R go D go R go D go L go U go L go U go L go L go D go D go R go U go L go L go D go L go U go R go U go R go D go R go D go L go U go L go L go U go D go R go U go R go D go L go L go U go R go D go R go R go R go R go R go R go D go L go U  done in 51 steps!
+#	New test... go L go D go L go R go U go L go D go L go D go L go U go R go R go U go R go D go L go D go L go U go U go R go R go R go R  done in 25 steps!
+#	New test... go U go U go U go L go D go R go U go L go L go U go D go D go R go U go U go L go D go U go R go D go R go D go L go U go R go D go L go D go D go D go R go U go R  done in 33 steps!
+#	New test... go R go R go D go L go L go L go U go R go U  done in 9 steps!
+#	New test... go R go R go D go L go L go L go U go R go U  done in 9 steps!
+#	New test... go R go R go R go R go U go D go D go L go U go L go L go L go L  done in 13 steps!
+#	New test... go L go D go D go D go D go D go L go D go D go R go R go L go U go U go L go L go D go R go U go U go D go L go L go D go R go U go R go U go L go D go D go R go U go R go U go U go L go L go D go R go D go R go U go L go L go D go R go D go L go U go U go U go R go D go R go R go U go U go L go U go U go R go D go D go L go U go R go D go L go R go U go L go D go L go L go U go R go U go R  done in 79 steps!
+#	New test... go L go D go L go D go R go D go D go U go U go U go U go R go D go R go U go L go L go D go D go R go U  done in 21 steps!
+#####	Test 09: winrate=100% av.steps=28 score=88
+#####	Starting Test 10...
+#	New test... go R go R go D go D go D go R go D go L go U go U go U go U go U go R go D go L go L  done in 17 steps!
+#	New test... go L go L go L go L go L go D go D go R go R go U go L go U go U go R go D go R go R go R go R  done in 19 steps!
+#	New test... go L go L go L go L go D go D go D go D go R go D go D go R go R go R go D go L go L go U go U go R go U go U go U go U go U go L go D go R go D go R go U  done in 31 steps!
+#	New test... go R go R go U go U go U go U go R go U go L go D go D go D go D go D go R go U go L go L go U go L go D  done in 21 steps!
+#	New test... go R go R go R go R go U go U go U go R go U go U go L go L go U go L go L go L go L go D go D go D go R go R go U go L go U go D go D go D go D go D go D  done in 31 steps!
+#	New test... go R go R go R go R go R go D go U go U go R go D go L go L go L go L go L  done in 15 steps!
+#	New test... go R go R go R go R go R go D go L go U go R go D go L go U go R go U go R go D go L go L go L go L go L  done in 21 steps!
+#	New test... go L go L go L go L go L go L go D go D go D go U go U go U go U go R go D go R go R go R go R go R go U go L go L go D go R  done in 25 steps!
+#	New test... go R go U go U go U go U go R go U go L go D go D go D go D go D go R go U go L go D go L go L go U go U go R go D  done in 23 steps!
+#	New test... go L go L go L go L go L go L go U go U go U go U go D go D go D go D go R go U go R go R go U go L go D go R go D go R go R go R go U go L go R go U go L go L go D go D go R  done in 35 steps!
+#####	Test 10: winrate=100% av.steps=23 score=90
+#####	Starting Test 11...
+#	New test... go R go R go R go R go R go U go U go L go D go R go U go L go U go U go U go L go L go L go L go L go U go R go R go D go U go R go D go R go U go L go L go D go D go L go D go D go R go U go L go U go D go D go L go D go R go U go D go D go D  done in 49 steps!
+#	New test... go L go L go U go U go U go U go U go R go U go L go D go L go L go L go L go U go R go D go L go D go D go D go D go D go D go L go U go R go U go R go L go L go U go R go R go L go D go R go R go U go L go D go L go D go R go U go U go R go R go R go D go L go U go L go L go D go D go R go R go R go R  done in 61 steps!
+#	New test... go U go L go D go R go U go R go R go R go R go R go D go L go L go U go R go R go D go L go U go U go L go R go D go L go L go U go R go D go R go D go L go U go R go D go L go D go R go U go L go D go L go L go U go L go L  done in 45 steps!
+#	New test... go R go R go D go U go R go D go L go D go D go D go D go R go U go R go D go L go L go L go D go L go U go L go U go D go D go L go U go U go D go R go U go U go L go D go R go D go R go U go L go U go U go U go R go U go L go D go D go D go D go R go U go L go U go U go L go D go D go R go R go U go U  done in 61 steps!
+#	New test... go L go L go D go D go D go D go D go D go R go D go L go U go L go L go L go U go U go U go U go U go U go L go D go D go R go L go D go R go D go L go U go U go R go R go U go R go R go D go L go L go U go R go R go D go R go U go L go R go R go R go D go L go U  done in 53 steps!
+#	New test... go R go R go R go U go U go U go U go U go U go L go U go R go D go R go R go R go D go D go D go D go D go D go R go U go U go L go R go U go L go U go R go D go D go L go L go D go L go L go U go R go R go D go L go L go D go L go U go R go L go L go L go U go R go D go R go D go L  done in 57 steps!
+#	New test... go D go U go R go D go L go D go D go D go D go L go D go R go U go U go U go U go U  done in 17 steps!
+#	New test... go L go D go R go U go L go U go U go U go L go U go U go R go U go R go R go D go L go D go D go R go U go U go L go D go R go D go D go L go L go U go U go R go D go R go D go D go L go D go D  done in 39 steps!
+#	New test... go L go L go L go U go U go U go R go U go L go D go L go L go L go D go D go D go L go U go U go R go L go U go R go R go D go D go R go U go L go D go R go R go U go R go D go L go L go R go R go R go R go U go L go D go L go U go R go D go L go D go R  done in 51 steps!
+#	New test... go L go L go L go L go D go U go L go D go R go D go D go D go L go D go D go R go D go R go R go R go R go R go U go L go U go U go L go D go D go R go U go L go L go L go U go R go D go R go U go U go L go D go R go D go R go U go L go L go U go R go D go R go R go D go L go U go R go U go U go L go U go U go R go D go D go L go U  done in 67 steps!
+#####	Test 11: winrate=100% av.steps=50 score=80
+#####	Starting Test 12...
+#	New test... go D go U go L go D go R go R go U go L go D go D go U go U go R go D go L go D go D go D go D go D go R go U go R go D go L go D go L go U go U go U go U go U go U  done in 33 steps!
+#	New test... go U go L go D go R go U go U go U go L go D go D go R go R go L go L go D go R go U go R go R go R go R go U go R go R go D go D go L go R go U go L go U go R go D go D go L go U go L go L go U go R go D go R go D go L go U go U go R go D go L go L go L go U go R go D go R go D go L go R go U go R go D go L go L go U go U go R go D go L go L go L go U go R go D go R go D go L go L  done in 77 steps!
+#	New test... go R go U go D go R go R go U go D go L go U go R go U go L go D go D go R go U go U go L go U go U go U go U go L go L go U go R go D go R go D go L go U go R go D go R go U go L go L go D go D go R go U go L go U go L go D go R go R go U go L go D go D go U go U go R go D go D go L go D go R go U go U go L go L go D go R go R go D go D go D go L go D go R go U go U go L go D go R go U go L go R go U go U go L go L go D go D go D  done in 87 steps!
+#	New test... go L go U go R go U go L go D go L go R go R go R go U go L go L go D go L go L go L go L go D go D go L go D go R go L go U go U go U go R go R go D go D go L go D go L go U go U go R go U go R go R go R go R go D go R go U go L go L go L go L go L go D go D go R go L go U go U go R go R go D go R go U go R go U go R go D go L go L go D go R go R go R  done in 71 steps!
+#	New test... go L go U go R go D go L go U go U go R go D go L go L go R go R go U go L go D go L go L go L go L go L go U go R go D go L go D go D go L go U go R go U go U go R go L go D go R go R go U go L go L go D go D go R go U go U go R go L go L go D go R go R go R go U go L go D go L go D go R go L go U go L go D go R go R go U go U go L go D go R go R go R go U go L go D go L go D go R go L go U go R go U go L go D go D go R go U go L go U go R go R go D go R go D go R go U go L go L go D go R  done in 99 steps!
+#	New test... go R go U go D go R go U go L go U go D go D go D go R go U go U go L go U go U go U go U go L go L go U go L go D go U go R go R go R go D go D go L go L go U go L go U go R go R go D go R go D go D go D go D go L go D go R go U go U go U go U go U go L go L go D go U go R go R go D go D go L go D go R go D go R go D go L go U go U go L go D go D go D  done in 71 steps!
+#	New test... go D go D go L go U go R go D go R go L go L go U go R go U go L go D go D go R go R go R go R go R go R go U go R go U go L go D go D go L go U go R go D go L go D go R go U go L go L go U go D go R go U go R go U go L go U go R go D go R go D go L go L go L go D go R go U go L go R go R go U go L go D go L go L go D go R go U go R go U go L go R go D go R go U go L go L go D go D go R go U go L go U go R go D go L go L go R go R go D go L go U go L go L go D go R go U go R go U go L go L  done in 99 steps!
+#	New test... go U go U go L go D go R go U go U go L go D go R go R go L go L go U go R go D go R go R go R go R go R go D go D go D go R go U go L go U go L go R go R go U go L go D go L go L go U go R go D go R go D go L go U go L go R go R go U go L go D go L go L go U go R go D go R go D go L go R go U go L go U go R go D go D go L go U go R go R go U go L go D go L go L go R go R go U go L go L go D go L go U go R go R go D go D go L go L  done in 87 steps!
+#	New test... go L go U go U go U go U go R go R go U go L go D go L go L go R go R go U go L go D go L go L go L go L go D go L go D go R go U go U go L go D go R go U go L go D go R go U go R go R go R go R go D go R go U go L go L go L go R go R go R go R go D go L go D go D go D go D  done in 55 steps!
+#	New test... go L go D go D go L go U go U go R go D go L go D go D go U go U go R go D go L go D go D go D go D go R go R go D go R go U go L go U go D go L go D go L go U go R go R go U go L go D go D go L go L go U go R go D go R go U go U go L go D go R go D go R go U go L go L go D go R go U go U go D go D go R go U go L go U go U go L go D go R go D go R go U go D go L go D go R go U go U go L go L go D go R go U go U go U go L go D go R go D go R go U go U go U go U  done in 93 steps!
+#####	Test 12: winrate=100% av.steps=77 score=69
+#####	Starting Test 13...
+#	New test... go U go L go D go R go D go L go U go R go U go R go D go L go D go D go L go U go R go L go U go R go U go R go D go D go L go U go R go R go L go L go D go R go U go R go R go R go R go U go R go D go L go L go L go L go L  done in 45 steps!
+#	New test... go R go U go L go D go R go R go U go L go L go L go D go U go R go D go L go D go R go U go R go U go L go L go D go D go R go R go U go L go D go D go U go U go L go D go R go D go D go D go D go R go D go R go U go L go L go D go R go U go L go D go R go U go L go U go U go U go U go U go U  done in 59 steps!
+#	New test... go U go L go U go U go R go L go D go R go U go U go L go D go R go R go L go D go L go U go U go R go R go D go D go L go U go R go R go L go L go D go R go U go R go R go R go R go D go D go R go U go U go L go D go U go L go D go R go D go R go U go L go L go D go U go R go R go D go D go L go R go U go U go L go L go U go R go L go D go R go U go R go D go D go D go L go U go U go L go U go R go D go R go U go L go D go L go R go U go R go D go D go L go L go U go R go D go L go R go U go L go L go D go U go R go R go D go D go L go U go R go U go U go U go R go U go L go D go D go L go U go R go D go D go D go L go U go L go U go L go L go D go L go U go R go D go R go R go U go L go L go D go R go U go R go D go L go D go U go R go R go D go D go L go U go U go L go L go U go R go R go D go L go R go U go L go L go D go D go U go R go R go D go D go L go L  done in 175 steps!
+#	New test... go D go R go D go D go L go R go U go L go D go D go R go U go L go L go R go U go R go D go D go L go L go U go U go R go D go L go L go R go R go U go L go D go L go L go L go L go U go U go L go U go U go R go D go D go R go D go L go U go R go D go L go U go U go R go L go U go U go L go D go R go D go R go U go L go U go L go D go R go D go D go L go U go U go R go U go R go D go L go D go D go L go U go U go R go D go D go D go L go U go R go R go L go L go D go R go U go R go R go D go L go L go U go U go R go D go L go D go R go U go R go D go L go U go R go L go L go L go U go R go U go L go D go R go D go R go D go L go U go R go R go R go D go L go U go L go U go R go L go L go D go R go L go U go R go R go D go D go L go U go R go R go L go D go R go R go U go D go L go L go U go U go R go R  done in 163 steps!
+#	New test... go L go L go L go U go L go D go R go D go U go R go U go L go L go D go U go R go D go L go D go R go D go U go U go U go L go D go D go R go D go D go D go D go R go R go R go R go D go L go L go U go D go L go U go L go L go D go R go R go U go D go R go U go U go L go D go R go D go R go U go D go L go L go L go L go U go R go D go R go R go U go L go D go R go R go U go L go L go U go L go D go R go R go U go L go D go D go R go U go U go D go L go U go U go R go L go D go D go R go R go U go L go D go L go U go R go U go D go D go D go L go U go R go U go U go L go D go D go R go U go U go U go L go D go R go D go R go U go D go D go L go U go D go R go U go U go L go D go D go L go D go R go U go U go L go D go R go U go U go U go D go D go D go L go U go R go U go L go D go R go U go U go U go L go D go R go D go R go U go U  done in 169 steps!
+#	New test... go R go D go L go L go U go D go R go U go R go U go L go D go L go L go D go R go U go D go R go U go R go U go L go L go D go R go U go U go D go D go L go U go R go U go U go U go U go R go U go L go D go D go D go D go D  done in 45 steps!
+#	New test... go L go D go R go R go U go D go L go U go L go U go R go D go L go R go R go R go D go L go U go D go L go U go L go U go R go R go D go L go U go U go D go D go R go U go L go U go U go U go U go L go U go L go D go R go R go R go R go U go L go D go L go D go D go D go D go D go D  done in 57 steps!
+#	New test... go L go L go L go U go D go L go U go R go U go D go R go D go L go L go U go D go R go U go L go U go R go U go D go D go D go L go U go U go R go U go U go U go U go R go R go R go R go U go L go L go D go U go L go D go L go L go U go R go R go D go U go R go D go D go L go U go R go U go R go D go R go D go L go U go U go L go L go L go D go D go R go R go U go L go U go R go D go L go D go R go U go R go D go L go U go R go D go L go L go L go U go R go D go R go D go L go U go R go D go U go U go L go D go R go D go D go L go U go U go R go R go D go L go U go L go D go R go D go U go U go U go R go D go L go D go D go D go D go R go D go L go U go R go U go D go D go L go L go U go D go L go U go U go R go U go R go D go R go D  done in 149 steps!
+#	New test... go R go U go D go R go R go U go D go L go U go R go R go D go L go U go U go D go L go D go R go R go U go U go L go L go D go R go U go U go D go D go L go U go R go U go U go U go U go L go L go U go R go R go R go D go L go L go R go U go L go L go D go D go R go U go L go D go R go U go L go U go L go D go R go R go R go R go U go L go L go D go U go L go D go D go U go R go D go D go L go R go U go U go L go L go D go U go R go R go U go L go D go L go D go R go U go R go D go D go R go D go D go L go D go L go D go R go U go U go L go U go R go D go L go U go R go U go U go L go L go D go R go R go U go L go D go L go U go R go D go U go L go D go R go D go D go R go U go L go U go L go D go U go R go D go R go U go L go L go D go R go R go D go D go R go U go L go R go D go L go U go L go D go R go U go L go U go L go D go D  done in 169 steps!
+#	New test... go D go R go U go L go D go R go D go U go R go U go L go L go D go U go R go D go L go D go R go D go U go U go U go L go D go D go R go D go D go D go D go L go R go U go U go U go U go U go L go U go R go D go D go L go L go U go R go R go D go L go U go U go R go D go D go U go L go D go D go U go R go D go D go L go U go U go R go D go U go L go D go D go R go R go D go D go L go D go L go L go U go U go R go U go R go U go U go U go L go D go U go R go D go D go D go L go U go U go R go U go U go R go R go R go R go D go L go R go U go L go L go D go U go L go L go D go D go R go D go D go D go L go L go U go R go U go U go R go D go L go D go L go U go D go R go D go L go U go U go R go R go D go L go U go U go U go R go D go L go D go L go U go U  done in 153 steps!
+#####	Test 13: winrate=100% av.steps=118 score=53
+#####	All done!

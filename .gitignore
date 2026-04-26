@@ -1,0 +1,46 @@
+# Build artifacts
+/build/
+/out/
+/dist/
+/examples/
+
+# CMake
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/compile_commands.json
+/Makefile
+/Testing/
+/CTestTestfile.cmake
+/install_manifest.txt
+
+# Local indexes and caches
+*.idx
+*.bin
+*.tmp
+/.docsearch_cache/
+/.docsearch/
+/.local_index/
+
+# Local backups and logs
+/_backup/
+*.log
+/antlog.txt
+
+# Editor and IDE files
+/.idea/
+/.vscode/
+/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python / notebooks
+/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+Desktop.ini
